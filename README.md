@@ -24,4 +24,3 @@ O objetivo principal do **Projeto__JVW** é facilitar a gestão de salões de be
 
 ## Status do Projeto
 Em desenvolvimento
-
